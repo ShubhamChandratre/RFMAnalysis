@@ -90,3 +90,5 @@ For any questions or feedback, feel free to reach out to [Shubham Chandratre](ht
 ---
 
 This project demonstrates how to use RFM analysis to segment customers effectively. Contributions and suggestions are welcome!
+
+Original dataset On Kaggle : [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
